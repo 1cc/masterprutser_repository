@@ -1,3 +1,10 @@
 Full of awesomeness
 
-This project is to learn a lot about git repositories
+<<<<<<< HEAD
+This project is to learn about git repositories
+
+git is great
+=======
+This project is to learn more about git repositories
+
+>>>>>>> foo_feature
